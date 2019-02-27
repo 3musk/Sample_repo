@@ -1,0 +1,4 @@
+$ git clone "repository name"
+$ git add .
+$ git commit -m "mgs"
+$ git push origin "branchname"
