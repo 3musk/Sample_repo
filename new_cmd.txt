@@ -2,3 +2,8 @@ $ git clone "repository name"
 $ git add .
 $ git commit -m "mgs"
 $ git push origin "branchname"
+if(branchname !=master)
+    git checkout "branchname"
+    
+    and to get back to master:
+          git checkout master
